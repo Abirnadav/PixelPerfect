@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PixelPerfect/static/css/main.b1257ada.chunk.css",
+    "main.js": "/PixelPerfect/static/js/main.c2ee6007.chunk.js",
+    "main.js.map": "/PixelPerfect/static/js/main.c2ee6007.chunk.js.map",
+    "runtime-main.js": "/PixelPerfect/static/js/runtime-main.f58e8c80.js",
+    "runtime-main.js.map": "/PixelPerfect/static/js/runtime-main.f58e8c80.js.map",
+    "static/js/2.6c99fdad.chunk.js": "/PixelPerfect/static/js/2.6c99fdad.chunk.js",
+    "static/js/2.6c99fdad.chunk.js.map": "/PixelPerfect/static/js/2.6c99fdad.chunk.js.map",
+    "index.html": "/PixelPerfect/index.html",
+    "precache-manifest.6056a1633d57a5907362029a541184d2.js": "/PixelPerfect/precache-manifest.6056a1633d57a5907362029a541184d2.js",
+    "service-worker.js": "/PixelPerfect/service-worker.js",
+    "static/css/main.b1257ada.chunk.css.map": "/PixelPerfect/static/css/main.b1257ada.chunk.css.map",
+    "static/js/2.6c99fdad.chunk.js.LICENSE.txt": "/PixelPerfect/static/js/2.6c99fdad.chunk.js.LICENSE.txt",
+    "static/media/bg-curvy-desktop.svg": "/PixelPerfect/static/media/bg-curvy-desktop.376a8b95.svg",
+    "static/media/icon-access-anywhere.svg": "/PixelPerfect/static/media/icon-access-anywhere.5f4b8b3e.svg",
+    "static/media/icon-arrow.svg": "/PixelPerfect/static/media/icon-arrow.794c5a48.svg",
+    "static/media/icon-collaboration.svg": "/PixelPerfect/static/media/icon-collaboration.ca8c71cf.svg",
+    "static/media/icon-security.svg": "/PixelPerfect/static/media/icon-security.f5585378.svg",
+    "static/media/illustration-intro.png": "/PixelPerfect/static/media/illustration-intro.526544ae.png",
+    "static/media/illustration-stay-productive.png": "/PixelPerfect/static/media/illustration-stay-productive.99294b1f.png",
+    "static/media/logo.svg": "/PixelPerfect/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f58e8c80.js",
+    "static/js/2.6c99fdad.chunk.js",
+    "static/css/main.b1257ada.chunk.css",
+    "static/js/main.c2ee6007.chunk.js"
+  ]
+}
